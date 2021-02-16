@@ -1,0 +1,6 @@
+Exception triggered: 2020-11-01T17:04:48.853520400
+    Message: Unknown column 'name' in 'field list'
+    Cause: test
+Exception triggered: 2020-11-10T18:48:40.569758700
+    Message: Unknown column 'name' in 'field list'
+    Cause: test
